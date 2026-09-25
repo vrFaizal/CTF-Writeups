@@ -1,9 +1,9 @@
 # CTF Write-Up: Binary Digits
 
 * **Platform:** CyLab Security Academy (picoCTF 2026)
-Category: Forensics
-Difficulty: Easy
-Challenge Name: Binary Digits
+* **Category:** Forensics
+* **Difficulty:** Easy
+* **Challenge Name:** Binary Digits
 
 
 1. Challenge Overview
