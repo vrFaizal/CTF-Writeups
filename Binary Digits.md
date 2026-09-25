@@ -1,6 +1,6 @@
 # CTF Write-Up: Binary Digits
 
-Platform: CyLab Security Academy (picoCTF 2026)
+* **Platform:** CyLab Security Academy (picoCTF 2026)
 Category: Forensics
 Difficulty: Easy
 Challenge Name: Binary Digits
@@ -31,7 +31,7 @@ Used an Image-to-Text (OCR) converter tool on the generated image.
 Extracted the resulting text string to uncover the exact flag format.
 
 4. The Flag
-academy{h1dd3n_1n_th3_b1n4ry_1b150ee9}
+**academy{h1dd3n_1n_th3_b1n4ry_1b150ee9}**
 
 5. Key Takeaways
 Data Representation: Data isn't always what it looks like at face value; long streams of text or numbers can often be visual structures (like bitmaps or rendered images) in disguise.
